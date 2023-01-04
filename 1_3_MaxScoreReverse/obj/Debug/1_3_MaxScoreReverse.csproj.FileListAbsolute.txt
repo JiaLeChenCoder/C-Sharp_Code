@@ -1,0 +1,8 @@
+D:\vs2022实例\1_3_MaxScoreReverse\bin\Debug\1_3_MaxScoreReverse.exe.config
+D:\vs2022实例\1_3_MaxScoreReverse\bin\Debug\1_3_MaxScoreReverse.exe
+D:\vs2022实例\1_3_MaxScoreReverse\bin\Debug\1_3_MaxScoreReverse.pdb
+D:\vs2022实例\1_3_MaxScoreReverse\obj\Debug\1_3_MaxScoreReverse.csproj.AssemblyReference.cache
+D:\vs2022实例\1_3_MaxScoreReverse\obj\Debug\1_3_MaxScoreReverse.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_3_MaxScoreReverse\obj\Debug\1_3_MaxScoreReverse.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_3_MaxScoreReverse\obj\Debug\1_3_MaxScoreReverse.exe
+D:\vs2022实例\1_3_MaxScoreReverse\obj\Debug\1_3_MaxScoreReverse.pdb
