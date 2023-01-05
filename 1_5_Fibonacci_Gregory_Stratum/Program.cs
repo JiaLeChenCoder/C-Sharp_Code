@@ -46,6 +46,7 @@ namespace _1_5_Fibonacci_Gregory_Stratum
             //pi = s * 4;
             //Console.WriteLine("{0}", pi);
             //Console.ReadKey();
+            
             // 求n的阶层
             //第一种方法
             //int i = 0;
