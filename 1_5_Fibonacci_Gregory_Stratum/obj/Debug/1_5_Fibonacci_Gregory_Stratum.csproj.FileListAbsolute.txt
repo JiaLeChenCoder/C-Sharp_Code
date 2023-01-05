@@ -1,0 +1,8 @@
+D:\vs2022实例\1_5_Fibonacci_Gregory_Stratum\bin\Debug\1_5_Fibonacci_Gregory_Stratum.exe.config
+D:\vs2022实例\1_5_Fibonacci_Gregory_Stratum\bin\Debug\1_5_Fibonacci_Gregory_Stratum.exe
+D:\vs2022实例\1_5_Fibonacci_Gregory_Stratum\bin\Debug\1_5_Fibonacci_Gregory_Stratum.pdb
+D:\vs2022实例\1_5_Fibonacci_Gregory_Stratum\obj\Debug\1_5_Fibonacci_Gregory_Stratum.csproj.AssemblyReference.cache
+D:\vs2022实例\1_5_Fibonacci_Gregory_Stratum\obj\Debug\1_5_Fibonacci_Gregory_Stratum.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_5_Fibonacci_Gregory_Stratum\obj\Debug\1_5_Fibonacci_Gregory_Stratum.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_5_Fibonacci_Gregory_Stratum\obj\Debug\1_5_Fibonacci_Gregory_Stratum.exe
+D:\vs2022实例\1_5_Fibonacci_Gregory_Stratum\obj\Debug\1_5_Fibonacci_Gregory_Stratum.pdb
