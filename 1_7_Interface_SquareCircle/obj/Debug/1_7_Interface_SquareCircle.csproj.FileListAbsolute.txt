@@ -1,0 +1,8 @@
+D:\vs2022实例\1_7_Interface_SquareCircle\obj\Debug\1_7_Interface_SquareCircle.csproj.AssemblyReference.cache
+D:\vs2022实例\1_7_Interface_SquareCircle\obj\Debug\1_7_Interface_SquareCircle.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_7_Interface_SquareCircle\obj\Debug\1_7_Interface_SquareCircle.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_7_Interface_SquareCircle\bin\Debug\1_7_Interface_SquareCircle.exe.config
+D:\vs2022实例\1_7_Interface_SquareCircle\bin\Debug\1_7_Interface_SquareCircle.exe
+D:\vs2022实例\1_7_Interface_SquareCircle\bin\Debug\1_7_Interface_SquareCircle.pdb
+D:\vs2022实例\1_7_Interface_SquareCircle\obj\Debug\1_7_Interface_SquareCircle.exe
+D:\vs2022实例\1_7_Interface_SquareCircle\obj\Debug\1_7_Interface_SquareCircle.pdb
