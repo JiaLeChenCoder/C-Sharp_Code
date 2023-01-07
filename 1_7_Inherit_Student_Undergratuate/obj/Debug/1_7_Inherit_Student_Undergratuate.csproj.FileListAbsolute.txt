@@ -1,0 +1,8 @@
+D:\vs2022实例\1_7_Inherit_Student_Undergratuate\bin\Debug\1_7_Inherit_Student_Undergratuate.exe.config
+D:\vs2022实例\1_7_Inherit_Student_Undergratuate\bin\Debug\1_7_Inherit_Student_Undergratuate.exe
+D:\vs2022实例\1_7_Inherit_Student_Undergratuate\bin\Debug\1_7_Inherit_Student_Undergratuate.pdb
+D:\vs2022实例\1_7_Inherit_Student_Undergratuate\obj\Debug\1_7_Inherit_Student_Undergratuate.csproj.AssemblyReference.cache
+D:\vs2022实例\1_7_Inherit_Student_Undergratuate\obj\Debug\1_7_Inherit_Student_Undergratuate.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_7_Inherit_Student_Undergratuate\obj\Debug\1_7_Inherit_Student_Undergratuate.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_7_Inherit_Student_Undergratuate\obj\Debug\1_7_Inherit_Student_Undergratuate.exe
+D:\vs2022实例\1_7_Inherit_Student_Undergratuate\obj\Debug\1_7_Inherit_Student_Undergratuate.pdb
