@@ -1,0 +1,17 @@
+D:\vs2022实例\1_10_Notepad\bin\Debug\net6.0-windows\1_10_Notepad.exe
+D:\vs2022实例\1_10_Notepad\bin\Debug\net6.0-windows\1_10_Notepad.deps.json
+D:\vs2022实例\1_10_Notepad\bin\Debug\net6.0-windows\1_10_Notepad.runtimeconfig.json
+D:\vs2022实例\1_10_Notepad\bin\Debug\net6.0-windows\1_10_Notepad.dll
+D:\vs2022实例\1_10_Notepad\bin\Debug\net6.0-windows\1_10_Notepad.pdb
+D:\vs2022实例\1_10_Notepad\obj\Debug\net6.0-windows\1_10_Notepad.csproj.AssemblyReference.cache
+D:\vs2022实例\1_10_Notepad\obj\Debug\net6.0-windows\_1_10_Notepad.Form1.resources
+D:\vs2022实例\1_10_Notepad\obj\Debug\net6.0-windows\1_10_Notepad.csproj.GenerateResource.cache
+D:\vs2022实例\1_10_Notepad\obj\Debug\net6.0-windows\1_10_Notepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs2022实例\1_10_Notepad\obj\Debug\net6.0-windows\1_10_Notepad.AssemblyInfoInputs.cache
+D:\vs2022实例\1_10_Notepad\obj\Debug\net6.0-windows\1_10_Notepad.AssemblyInfo.cs
+D:\vs2022实例\1_10_Notepad\obj\Debug\net6.0-windows\1_10_Notepad.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_10_Notepad\obj\Debug\net6.0-windows\1_10_Notepad.dll
+D:\vs2022实例\1_10_Notepad\obj\Debug\net6.0-windows\refint\1_10_Notepad.dll
+D:\vs2022实例\1_10_Notepad\obj\Debug\net6.0-windows\1_10_Notepad.pdb
+D:\vs2022实例\1_10_Notepad\obj\Debug\net6.0-windows\1_10_Notepad.genruntimeconfig.cache
+D:\vs2022实例\1_10_Notepad\obj\Debug\net6.0-windows\ref\1_10_Notepad.dll
