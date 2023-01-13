@@ -1,0 +1,17 @@
+D:\vs2022实例\1_13_PictureSwitching_WinForms\bin\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.exe
+D:\vs2022实例\1_13_PictureSwitching_WinForms\bin\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.deps.json
+D:\vs2022实例\1_13_PictureSwitching_WinForms\bin\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.runtimeconfig.json
+D:\vs2022实例\1_13_PictureSwitching_WinForms\bin\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.dll
+D:\vs2022实例\1_13_PictureSwitching_WinForms\bin\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.pdb
+D:\vs2022实例\1_13_PictureSwitching_WinForms\obj\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.csproj.AssemblyReference.cache
+D:\vs2022实例\1_13_PictureSwitching_WinForms\obj\Debug\net6.0-windows\_1_13_PictureSwitching_WinForms.Form1.resources
+D:\vs2022实例\1_13_PictureSwitching_WinForms\obj\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.csproj.GenerateResource.cache
+D:\vs2022实例\1_13_PictureSwitching_WinForms\obj\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs2022实例\1_13_PictureSwitching_WinForms\obj\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.AssemblyInfoInputs.cache
+D:\vs2022实例\1_13_PictureSwitching_WinForms\obj\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.AssemblyInfo.cs
+D:\vs2022实例\1_13_PictureSwitching_WinForms\obj\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_13_PictureSwitching_WinForms\obj\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.dll
+D:\vs2022实例\1_13_PictureSwitching_WinForms\obj\Debug\net6.0-windows\refint\1_13_PictureSwitching_WinForms.dll
+D:\vs2022实例\1_13_PictureSwitching_WinForms\obj\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.pdb
+D:\vs2022实例\1_13_PictureSwitching_WinForms\obj\Debug\net6.0-windows\1_13_PictureSwitching_WinForms.genruntimeconfig.cache
+D:\vs2022实例\1_13_PictureSwitching_WinForms\obj\Debug\net6.0-windows\ref\1_13_PictureSwitching_WinForms.dll
