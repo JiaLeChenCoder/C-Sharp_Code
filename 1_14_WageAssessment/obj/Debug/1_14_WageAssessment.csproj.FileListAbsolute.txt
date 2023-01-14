@@ -1,0 +1,8 @@
+D:\vs2022实例\1_14_WageAssessment\bin\Debug\1_14_WageAssessment.exe.config
+D:\vs2022实例\1_14_WageAssessment\bin\Debug\1_14_WageAssessment.exe
+D:\vs2022实例\1_14_WageAssessment\bin\Debug\1_14_WageAssessment.pdb
+D:\vs2022实例\1_14_WageAssessment\obj\Debug\1_14_WageAssessment.csproj.AssemblyReference.cache
+D:\vs2022实例\1_14_WageAssessment\obj\Debug\1_14_WageAssessment.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_14_WageAssessment\obj\Debug\1_14_WageAssessment.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_14_WageAssessment\obj\Debug\1_14_WageAssessment.exe
+D:\vs2022实例\1_14_WageAssessment\obj\Debug\1_14_WageAssessment.pdb
