@@ -1,0 +1,8 @@
+D:\vs2022实例\1_15_JudgeTheYear\bin\Debug\1_15_JudgeTheYear.exe.config
+D:\vs2022实例\1_15_JudgeTheYear\bin\Debug\1_15_JudgeTheYear.exe
+D:\vs2022实例\1_15_JudgeTheYear\bin\Debug\1_15_JudgeTheYear.pdb
+D:\vs2022实例\1_15_JudgeTheYear\obj\Debug\1_15_JudgeTheYear.csproj.AssemblyReference.cache
+D:\vs2022实例\1_15_JudgeTheYear\obj\Debug\1_15_JudgeTheYear.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_15_JudgeTheYear\obj\Debug\1_15_JudgeTheYear.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_15_JudgeTheYear\obj\Debug\1_15_JudgeTheYear.exe
+D:\vs2022实例\1_15_JudgeTheYear\obj\Debug\1_15_JudgeTheYear.pdb
