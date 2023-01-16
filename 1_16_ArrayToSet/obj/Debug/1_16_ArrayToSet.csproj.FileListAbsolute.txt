@@ -1,0 +1,8 @@
+D:\vs2022实例\1_16_ArrayToSet\bin\Debug\1_16_ArrayToSet.exe.config
+D:\vs2022实例\1_16_ArrayToSet\bin\Debug\1_16_ArrayToSet.exe
+D:\vs2022实例\1_16_ArrayToSet\bin\Debug\1_16_ArrayToSet.pdb
+D:\vs2022实例\1_16_ArrayToSet\obj\Debug\1_16_ArrayToSet.csproj.AssemblyReference.cache
+D:\vs2022实例\1_16_ArrayToSet\obj\Debug\1_16_ArrayToSet.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_16_ArrayToSet\obj\Debug\1_16_ArrayToSet.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_16_ArrayToSet\obj\Debug\1_16_ArrayToSet.exe
+D:\vs2022实例\1_16_ArrayToSet\obj\Debug\1_16_ArrayToSet.pdb
