@@ -1,0 +1,8 @@
+D:\vs2022实例\1_18_ArrayMaxMinSumAverage\bin\Debug\1_18_ArrayMaxMinSumAverage.exe.config
+D:\vs2022实例\1_18_ArrayMaxMinSumAverage\bin\Debug\1_18_ArrayMaxMinSumAverage.exe
+D:\vs2022实例\1_18_ArrayMaxMinSumAverage\bin\Debug\1_18_ArrayMaxMinSumAverage.pdb
+D:\vs2022实例\1_18_ArrayMaxMinSumAverage\obj\Debug\1_18_ArrayMaxMinSumAverage.csproj.AssemblyReference.cache
+D:\vs2022实例\1_18_ArrayMaxMinSumAverage\obj\Debug\1_18_ArrayMaxMinSumAverage.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_18_ArrayMaxMinSumAverage\obj\Debug\1_18_ArrayMaxMinSumAverage.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_18_ArrayMaxMinSumAverage\obj\Debug\1_18_ArrayMaxMinSumAverage.exe
+D:\vs2022实例\1_18_ArrayMaxMinSumAverage\obj\Debug\1_18_ArrayMaxMinSumAverage.pdb
