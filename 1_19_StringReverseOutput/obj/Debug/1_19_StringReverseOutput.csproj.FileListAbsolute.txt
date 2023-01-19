@@ -1,0 +1,8 @@
+D:\vs2022实例\1_19_StringReverseOutput\bin\Debug\1_19_StringReverseOutput.exe.config
+D:\vs2022实例\1_19_StringReverseOutput\bin\Debug\1_19_StringReverseOutput.exe
+D:\vs2022实例\1_19_StringReverseOutput\bin\Debug\1_19_StringReverseOutput.pdb
+D:\vs2022实例\1_19_StringReverseOutput\obj\Debug\1_19_StringReverseOutput.csproj.AssemblyReference.cache
+D:\vs2022实例\1_19_StringReverseOutput\obj\Debug\1_19_StringReverseOutput.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_19_StringReverseOutput\obj\Debug\1_19_StringReverseOutput.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_19_StringReverseOutput\obj\Debug\1_19_StringReverseOutput.exe
+D:\vs2022实例\1_19_StringReverseOutput\obj\Debug\1_19_StringReverseOutput.pdb
