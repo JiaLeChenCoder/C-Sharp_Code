@@ -1,0 +1,8 @@
+D:\vs2022实例\1_20_WordReverseOutput\bin\Debug\1_20_WordReverseOutput.exe.config
+D:\vs2022实例\1_20_WordReverseOutput\bin\Debug\1_20_WordReverseOutput.exe
+D:\vs2022实例\1_20_WordReverseOutput\bin\Debug\1_20_WordReverseOutput.pdb
+D:\vs2022实例\1_20_WordReverseOutput\obj\Debug\1_20_WordReverseOutput.csproj.AssemblyReference.cache
+D:\vs2022实例\1_20_WordReverseOutput\obj\Debug\1_20_WordReverseOutput.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_20_WordReverseOutput\obj\Debug\1_20_WordReverseOutput.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_20_WordReverseOutput\obj\Debug\1_20_WordReverseOutput.exe
+D:\vs2022实例\1_20_WordReverseOutput\obj\Debug\1_20_WordReverseOutput.pdb
