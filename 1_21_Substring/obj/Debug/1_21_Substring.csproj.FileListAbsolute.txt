@@ -1,0 +1,8 @@
+D:\vs2022实例\1_21_Substring\bin\Debug\1_21_Substring.exe.config
+D:\vs2022实例\1_21_Substring\bin\Debug\1_21_Substring.exe
+D:\vs2022实例\1_21_Substring\bin\Debug\1_21_Substring.pdb
+D:\vs2022实例\1_21_Substring\obj\Debug\1_21_Substring.csproj.AssemblyReference.cache
+D:\vs2022实例\1_21_Substring\obj\Debug\1_21_Substring.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_21_Substring\obj\Debug\1_21_Substring.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_21_Substring\obj\Debug\1_21_Substring.exe
+D:\vs2022实例\1_21_Substring\obj\Debug\1_21_Substring.pdb
