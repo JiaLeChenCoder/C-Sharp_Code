@@ -1,0 +1,8 @@
+D:\vs2022实例\1_22_Indexof\bin\Debug\1_22_Indexof.exe.config
+D:\vs2022实例\1_22_Indexof\bin\Debug\1_22_Indexof.exe
+D:\vs2022实例\1_22_Indexof\bin\Debug\1_22_Indexof.pdb
+D:\vs2022实例\1_22_Indexof\obj\Debug\1_22_Indexof.csproj.AssemblyReference.cache
+D:\vs2022实例\1_22_Indexof\obj\Debug\1_22_Indexof.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_22_Indexof\obj\Debug\1_22_Indexof.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_22_Indexof\obj\Debug\1_22_Indexof.exe
+D:\vs2022实例\1_22_Indexof\obj\Debug\1_22_Indexof.pdb
