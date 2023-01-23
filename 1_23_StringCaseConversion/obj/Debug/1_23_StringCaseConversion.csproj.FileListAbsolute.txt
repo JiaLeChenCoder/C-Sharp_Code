@@ -1,0 +1,8 @@
+D:\vs2022实例\1_23_StringCaseConversion\bin\Debug\1_23_StringCaseConversion.exe.config
+D:\vs2022实例\1_23_StringCaseConversion\bin\Debug\1_23_StringCaseConversion.exe
+D:\vs2022实例\1_23_StringCaseConversion\bin\Debug\1_23_StringCaseConversion.pdb
+D:\vs2022实例\1_23_StringCaseConversion\obj\Debug\1_23_StringCaseConversion.csproj.AssemblyReference.cache
+D:\vs2022实例\1_23_StringCaseConversion\obj\Debug\1_23_StringCaseConversion.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_23_StringCaseConversion\obj\Debug\1_23_StringCaseConversion.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_23_StringCaseConversion\obj\Debug\1_23_StringCaseConversion.exe
+D:\vs2022实例\1_23_StringCaseConversion\obj\Debug\1_23_StringCaseConversion.pdb
