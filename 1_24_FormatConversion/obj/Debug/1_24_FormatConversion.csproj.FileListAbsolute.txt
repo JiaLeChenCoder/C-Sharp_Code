@@ -1,0 +1,8 @@
+D:\vs2022实例\1_24_FormatConversion\bin\Debug\1_24_FormatConversion.exe.config
+D:\vs2022实例\1_24_FormatConversion\bin\Debug\1_24_FormatConversion.exe
+D:\vs2022实例\1_24_FormatConversion\bin\Debug\1_24_FormatConversion.pdb
+D:\vs2022实例\1_24_FormatConversion\obj\Debug\1_24_FormatConversion.csproj.AssemblyReference.cache
+D:\vs2022实例\1_24_FormatConversion\obj\Debug\1_24_FormatConversion.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_24_FormatConversion\obj\Debug\1_24_FormatConversion.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_24_FormatConversion\obj\Debug\1_24_FormatConversion.exe
+D:\vs2022实例\1_24_FormatConversion\obj\Debug\1_24_FormatConversion.pdb
