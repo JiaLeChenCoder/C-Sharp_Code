@@ -1,0 +1,11 @@
+D:\vs2022实例\1_27_ScissorsStoneClothGames\obj\Debug\1_27_ScissorsStoneClothGames.csproj.AssemblyReference.cache
+D:\vs2022实例\1_27_ScissorsStoneClothGames\obj\Debug\1_27_ScissorsStoneClothGames.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_27_ScissorsStoneClothGames\obj\Debug\_1_27_ScissorsStoneClothGames.Form1.resources
+D:\vs2022实例\1_27_ScissorsStoneClothGames\obj\Debug\_1_27_ScissorsStoneClothGames.Properties.Resources.resources
+D:\vs2022实例\1_27_ScissorsStoneClothGames\obj\Debug\1_27_ScissorsStoneClothGames.csproj.GenerateResource.cache
+D:\vs2022实例\1_27_ScissorsStoneClothGames\obj\Debug\1_27_ScissorsStoneClothGames.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_27_ScissorsStoneClothGames\bin\Debug\1_27_ScissorsStoneClothGames.exe.config
+D:\vs2022实例\1_27_ScissorsStoneClothGames\bin\Debug\1_27_ScissorsStoneClothGames.exe
+D:\vs2022实例\1_27_ScissorsStoneClothGames\bin\Debug\1_27_ScissorsStoneClothGames.pdb
+D:\vs2022实例\1_27_ScissorsStoneClothGames\obj\Debug\1_27_ScissorsStoneClothGames.exe
+D:\vs2022实例\1_27_ScissorsStoneClothGames\obj\Debug\1_27_ScissorsStoneClothGames.pdb
