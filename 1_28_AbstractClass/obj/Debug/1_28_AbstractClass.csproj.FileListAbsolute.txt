@@ -1,0 +1,8 @@
+D:\vs2022实例\1_28_AbstractClass\bin\Debug\1_28_AbstractClass.exe.config
+D:\vs2022实例\1_28_AbstractClass\bin\Debug\1_28_AbstractClass.exe
+D:\vs2022实例\1_28_AbstractClass\bin\Debug\1_28_AbstractClass.pdb
+D:\vs2022实例\1_28_AbstractClass\obj\Debug\1_28_AbstractClass.csproj.AssemblyReference.cache
+D:\vs2022实例\1_28_AbstractClass\obj\Debug\1_28_AbstractClass.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_28_AbstractClass\obj\Debug\1_28_AbstractClass.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_28_AbstractClass\obj\Debug\1_28_AbstractClass.exe
+D:\vs2022实例\1_28_AbstractClass\obj\Debug\1_28_AbstractClass.pdb
