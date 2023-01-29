@@ -1,0 +1,11 @@
+D:\vs2022实例\1_29_TextDialogDox\bin\Debug\1_29_TextDialogDox.exe.config
+D:\vs2022实例\1_29_TextDialogDox\bin\Debug\1_29_TextDialogDox.exe
+D:\vs2022实例\1_29_TextDialogDox\bin\Debug\1_29_TextDialogDox.pdb
+D:\vs2022实例\1_29_TextDialogDox\obj\Debug\1_29_TextDialogDox.csproj.AssemblyReference.cache
+D:\vs2022实例\1_29_TextDialogDox\obj\Debug\1_29_TextDialogDox.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_29_TextDialogDox\obj\Debug\_1_29_TextDialogDox.Form1.resources
+D:\vs2022实例\1_29_TextDialogDox\obj\Debug\_1_29_TextDialogDox.Properties.Resources.resources
+D:\vs2022实例\1_29_TextDialogDox\obj\Debug\1_29_TextDialogDox.csproj.GenerateResource.cache
+D:\vs2022实例\1_29_TextDialogDox\obj\Debug\1_29_TextDialogDox.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_29_TextDialogDox\obj\Debug\1_29_TextDialogDox.exe
+D:\vs2022实例\1_29_TextDialogDox\obj\Debug\1_29_TextDialogDox.pdb
