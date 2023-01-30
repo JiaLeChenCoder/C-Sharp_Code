@@ -1,0 +1,11 @@
+D:\vs2022实例\1_30_FontColorDialog\bin\Debug\1_30_FontColorDialog.exe.config
+D:\vs2022实例\1_30_FontColorDialog\bin\Debug\1_30_FontColorDialog.exe
+D:\vs2022实例\1_30_FontColorDialog\bin\Debug\1_30_FontColorDialog.pdb
+D:\vs2022实例\1_30_FontColorDialog\obj\Debug\1_30_FontColorDialog.csproj.AssemblyReference.cache
+D:\vs2022实例\1_30_FontColorDialog\obj\Debug\1_30_FontColorDialog.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_30_FontColorDialog\obj\Debug\_1_30_FontColorDialog.Form1.resources
+D:\vs2022实例\1_30_FontColorDialog\obj\Debug\_1_30_FontColorDialog.Properties.Resources.resources
+D:\vs2022实例\1_30_FontColorDialog\obj\Debug\1_30_FontColorDialog.csproj.GenerateResource.cache
+D:\vs2022实例\1_30_FontColorDialog\obj\Debug\1_30_FontColorDialog.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_30_FontColorDialog\obj\Debug\1_30_FontColorDialog.exe
+D:\vs2022实例\1_30_FontColorDialog\obj\Debug\1_30_FontColorDialog.pdb
