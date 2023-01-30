@@ -1,0 +1,11 @@
+D:\vs2022实例\1_30_SaveDialog\bin\Debug\1_30_SaveDialog.exe.config
+D:\vs2022实例\1_30_SaveDialog\bin\Debug\1_30_SaveDialog.exe
+D:\vs2022实例\1_30_SaveDialog\bin\Debug\1_30_SaveDialog.pdb
+D:\vs2022实例\1_30_SaveDialog\obj\Debug\1_30_SaveDialog.csproj.AssemblyReference.cache
+D:\vs2022实例\1_30_SaveDialog\obj\Debug\1_30_SaveDialog.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_30_SaveDialog\obj\Debug\_1_30_SaveDialog.Form1.resources
+D:\vs2022实例\1_30_SaveDialog\obj\Debug\_1_30_SaveDialog.Properties.Resources.resources
+D:\vs2022实例\1_30_SaveDialog\obj\Debug\1_30_SaveDialog.csproj.GenerateResource.cache
+D:\vs2022实例\1_30_SaveDialog\obj\Debug\1_30_SaveDialog.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_30_SaveDialog\obj\Debug\1_30_SaveDialog.exe
+D:\vs2022实例\1_30_SaveDialog\obj\Debug\1_30_SaveDialog.pdb
