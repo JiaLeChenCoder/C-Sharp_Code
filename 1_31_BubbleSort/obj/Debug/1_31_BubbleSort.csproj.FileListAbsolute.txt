@@ -1,0 +1,8 @@
+D:\vs2022实例\1_31_BubbleSort\bin\Debug\1_31_BubbleSort.exe.config
+D:\vs2022实例\1_31_BubbleSort\bin\Debug\1_31_BubbleSort.exe
+D:\vs2022实例\1_31_BubbleSort\bin\Debug\1_31_BubbleSort.pdb
+D:\vs2022实例\1_31_BubbleSort\obj\Debug\1_31_BubbleSort.csproj.AssemblyReference.cache
+D:\vs2022实例\1_31_BubbleSort\obj\Debug\1_31_BubbleSort.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\1_31_BubbleSort\obj\Debug\1_31_BubbleSort.csproj.CoreCompileInputs.cache
+D:\vs2022实例\1_31_BubbleSort\obj\Debug\1_31_BubbleSort.exe
+D:\vs2022实例\1_31_BubbleSort\obj\Debug\1_31_BubbleSort.pdb
