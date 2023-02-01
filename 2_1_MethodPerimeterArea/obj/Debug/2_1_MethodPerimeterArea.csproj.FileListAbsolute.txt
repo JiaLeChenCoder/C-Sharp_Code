@@ -1,0 +1,8 @@
+D:\vs2022实例\2_1_MethodPerimeterArea\bin\Debug\2_1_MethodPerimeterArea.exe.config
+D:\vs2022实例\2_1_MethodPerimeterArea\bin\Debug\2_1_MethodPerimeterArea.exe
+D:\vs2022实例\2_1_MethodPerimeterArea\bin\Debug\2_1_MethodPerimeterArea.pdb
+D:\vs2022实例\2_1_MethodPerimeterArea\obj\Debug\2_1_MethodPerimeterArea.csproj.AssemblyReference.cache
+D:\vs2022实例\2_1_MethodPerimeterArea\obj\Debug\2_1_MethodPerimeterArea.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_1_MethodPerimeterArea\obj\Debug\2_1_MethodPerimeterArea.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_1_MethodPerimeterArea\obj\Debug\2_1_MethodPerimeterArea.exe
+D:\vs2022实例\2_1_MethodPerimeterArea\obj\Debug\2_1_MethodPerimeterArea.pdb
