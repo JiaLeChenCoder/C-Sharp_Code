@@ -1,0 +1,8 @@
+D:\vs2022实例\2_2_SequentialExchange\bin\Debug\2_2_SequentialExchange.exe.config
+D:\vs2022实例\2_2_SequentialExchange\bin\Debug\2_2_SequentialExchange.exe
+D:\vs2022实例\2_2_SequentialExchange\bin\Debug\2_2_SequentialExchange.pdb
+D:\vs2022实例\2_2_SequentialExchange\obj\Debug\2_2_SequentialExchange.csproj.AssemblyReference.cache
+D:\vs2022实例\2_2_SequentialExchange\obj\Debug\2_2_SequentialExchange.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_2_SequentialExchange\obj\Debug\2_2_SequentialExchange.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_2_SequentialExchange\obj\Debug\2_2_SequentialExchange.exe
+D:\vs2022实例\2_2_SequentialExchange\obj\Debug\2_2_SequentialExchange.pdb
