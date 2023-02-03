@@ -1,0 +1,11 @@
+D:\vs2022实例\2_3_NotepadApplication\bin\Debug\2_3_NotepadApplication.exe.config
+D:\vs2022实例\2_3_NotepadApplication\bin\Debug\2_3_NotepadApplication.exe
+D:\vs2022实例\2_3_NotepadApplication\bin\Debug\2_3_NotepadApplication.pdb
+D:\vs2022实例\2_3_NotepadApplication\obj\Debug\2_3_NotepadApplication.csproj.AssemblyReference.cache
+D:\vs2022实例\2_3_NotepadApplication\obj\Debug\2_3_NotepadApplication.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_3_NotepadApplication\obj\Debug\_2_3_NotepadApplication.Form1.resources
+D:\vs2022实例\2_3_NotepadApplication\obj\Debug\_2_3_NotepadApplication.Properties.Resources.resources
+D:\vs2022实例\2_3_NotepadApplication\obj\Debug\2_3_NotepadApplication.csproj.GenerateResource.cache
+D:\vs2022实例\2_3_NotepadApplication\obj\Debug\2_3_NotepadApplication.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_3_NotepadApplication\obj\Debug\2_3_NotepadApplication.exe
+D:\vs2022实例\2_3_NotepadApplication\obj\Debug\2_3_NotepadApplication.pdb
