@@ -1,0 +1,8 @@
+D:\vs2022实例\2_4_ProcessClass\bin\Debug\2_4_ProcessClass.exe.config
+D:\vs2022实例\2_4_ProcessClass\bin\Debug\2_4_ProcessClass.exe
+D:\vs2022实例\2_4_ProcessClass\bin\Debug\2_4_ProcessClass.pdb
+D:\vs2022实例\2_4_ProcessClass\obj\Debug\2_4_ProcessClass.csproj.AssemblyReference.cache
+D:\vs2022实例\2_4_ProcessClass\obj\Debug\2_4_ProcessClass.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_4_ProcessClass\obj\Debug\2_4_ProcessClass.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_4_ProcessClass\obj\Debug\2_4_ProcessClass.exe
+D:\vs2022实例\2_4_ProcessClass\obj\Debug\2_4_ProcessClass.pdb
