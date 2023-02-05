@@ -1,0 +1,8 @@
+D:\vs2022实例\2_5_LongestElementOfArray\obj\Debug\2_5_LongestElementOfArray.csproj.AssemblyReference.cache
+D:\vs2022实例\2_5_LongestElementOfArray\obj\Debug\2_5_LongestElementOfArray.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_5_LongestElementOfArray\obj\Debug\2_5_LongestElementOfArray.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_5_LongestElementOfArray\bin\Debug\2_5_LongestElementOfArray.exe.config
+D:\vs2022实例\2_5_LongestElementOfArray\bin\Debug\2_5_LongestElementOfArray.exe
+D:\vs2022实例\2_5_LongestElementOfArray\bin\Debug\2_5_LongestElementOfArray.pdb
+D:\vs2022实例\2_5_LongestElementOfArray\obj\Debug\2_5_LongestElementOfArray.exe
+D:\vs2022实例\2_5_LongestElementOfArray\obj\Debug\2_5_LongestElementOfArray.pdb
