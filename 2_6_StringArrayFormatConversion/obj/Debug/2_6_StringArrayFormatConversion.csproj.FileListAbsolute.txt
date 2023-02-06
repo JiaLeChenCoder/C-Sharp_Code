@@ -1,0 +1,8 @@
+D:\vs2022实例\2_6_StringArrayFormatConversion\bin\Debug\2_6_StringArrayFormatConversion.exe.config
+D:\vs2022实例\2_6_StringArrayFormatConversion\bin\Debug\2_6_StringArrayFormatConversion.exe
+D:\vs2022实例\2_6_StringArrayFormatConversion\bin\Debug\2_6_StringArrayFormatConversion.pdb
+D:\vs2022实例\2_6_StringArrayFormatConversion\obj\Debug\2_6_StringArrayFormatConversion.csproj.AssemblyReference.cache
+D:\vs2022实例\2_6_StringArrayFormatConversion\obj\Debug\2_6_StringArrayFormatConversion.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_6_StringArrayFormatConversion\obj\Debug\2_6_StringArrayFormatConversion.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_6_StringArrayFormatConversion\obj\Debug\2_6_StringArrayFormatConversion.exe
+D:\vs2022实例\2_6_StringArrayFormatConversion\obj\Debug\2_6_StringArrayFormatConversion.pdb
