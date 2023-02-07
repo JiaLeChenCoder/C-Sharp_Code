@@ -1,0 +1,8 @@
+D:\vs2022实例\2_7_JudgeGrade\bin\Debug\2_7_JudgeGrade.exe.config
+D:\vs2022实例\2_7_JudgeGrade\bin\Debug\2_7_JudgeGrade.exe
+D:\vs2022实例\2_7_JudgeGrade\bin\Debug\2_7_JudgeGrade.pdb
+D:\vs2022实例\2_7_JudgeGrade\obj\Debug\2_7_JudgeGrade.csproj.AssemblyReference.cache
+D:\vs2022实例\2_7_JudgeGrade\obj\Debug\2_7_JudgeGrade.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_7_JudgeGrade\obj\Debug\2_7_JudgeGrade.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_7_JudgeGrade\obj\Debug\2_7_JudgeGrade.exe
+D:\vs2022实例\2_7_JudgeGrade\obj\Debug\2_7_JudgeGrade.pdb
