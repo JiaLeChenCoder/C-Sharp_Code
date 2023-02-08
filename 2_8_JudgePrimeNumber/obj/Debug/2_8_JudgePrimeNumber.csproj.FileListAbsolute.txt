@@ -1,0 +1,8 @@
+D:\vs2022实例\2_8_JudgePrimeNumber\obj\Debug\2_8_JudgePrimeNumber.csproj.AssemblyReference.cache
+D:\vs2022实例\2_8_JudgePrimeNumber\obj\Debug\2_8_JudgePrimeNumber.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_8_JudgePrimeNumber\obj\Debug\2_8_JudgePrimeNumber.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_8_JudgePrimeNumber\bin\Debug\2_8_JudgePrimeNumber.exe.config
+D:\vs2022实例\2_8_JudgePrimeNumber\bin\Debug\2_8_JudgePrimeNumber.exe
+D:\vs2022实例\2_8_JudgePrimeNumber\bin\Debug\2_8_JudgePrimeNumber.pdb
+D:\vs2022实例\2_8_JudgePrimeNumber\obj\Debug\2_8_JudgePrimeNumber.exe
+D:\vs2022实例\2_8_JudgePrimeNumber\obj\Debug\2_8_JudgePrimeNumber.pdb
