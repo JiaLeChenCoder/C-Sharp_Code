@@ -1,0 +1,8 @@
+D:\vs2022实例\2_9_ExtractUserNameAndDomainName\bin\Debug\2_9_ExtractUserNameAndDomainName.exe.config
+D:\vs2022实例\2_9_ExtractUserNameAndDomainName\bin\Debug\2_9_ExtractUserNameAndDomainName.exe
+D:\vs2022实例\2_9_ExtractUserNameAndDomainName\bin\Debug\2_9_ExtractUserNameAndDomainName.pdb
+D:\vs2022实例\2_9_ExtractUserNameAndDomainName\obj\Debug\2_9_ExtractUserNameAndDomainName.csproj.AssemblyReference.cache
+D:\vs2022实例\2_9_ExtractUserNameAndDomainName\obj\Debug\2_9_ExtractUserNameAndDomainName.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_9_ExtractUserNameAndDomainName\obj\Debug\2_9_ExtractUserNameAndDomainName.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_9_ExtractUserNameAndDomainName\obj\Debug\2_9_ExtractUserNameAndDomainName.exe
+D:\vs2022实例\2_9_ExtractUserNameAndDomainName\obj\Debug\2_9_ExtractUserNameAndDomainName.pdb
