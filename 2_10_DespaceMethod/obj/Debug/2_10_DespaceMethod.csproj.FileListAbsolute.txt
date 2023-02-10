@@ -1,0 +1,8 @@
+D:\vs2022实例\2_10_DespaceMethod\bin\Debug\2_10_DespaceMethod.exe.config
+D:\vs2022实例\2_10_DespaceMethod\bin\Debug\2_10_DespaceMethod.exe
+D:\vs2022实例\2_10_DespaceMethod\bin\Debug\2_10_DespaceMethod.pdb
+D:\vs2022实例\2_10_DespaceMethod\obj\Debug\2_10_DespaceMethod.csproj.AssemblyReference.cache
+D:\vs2022实例\2_10_DespaceMethod\obj\Debug\2_10_DespaceMethod.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_10_DespaceMethod\obj\Debug\2_10_DespaceMethod.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_10_DespaceMethod\obj\Debug\2_10_DespaceMethod.exe
+D:\vs2022实例\2_10_DespaceMethod\obj\Debug\2_10_DespaceMethod.pdb
