@@ -1,0 +1,8 @@
+D:\vs2022实例\2_11_Replace\bin\Debug\2_11_Replace.exe.config
+D:\vs2022实例\2_11_Replace\bin\Debug\2_11_Replace.exe
+D:\vs2022实例\2_11_Replace\bin\Debug\2_11_Replace.pdb
+D:\vs2022实例\2_11_Replace\obj\Debug\2_11_Replace.csproj.AssemblyReference.cache
+D:\vs2022实例\2_11_Replace\obj\Debug\2_11_Replace.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_11_Replace\obj\Debug\2_11_Replace.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_11_Replace\obj\Debug\2_11_Replace.exe
+D:\vs2022实例\2_11_Replace\obj\Debug\2_11_Replace.pdb
