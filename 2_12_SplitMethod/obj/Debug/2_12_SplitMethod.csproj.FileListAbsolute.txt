@@ -1,0 +1,8 @@
+D:\vs2022实例\2_12_SplitMethod\bin\Debug\2_12_SplitMethod.exe.config
+D:\vs2022实例\2_12_SplitMethod\bin\Debug\2_12_SplitMethod.exe
+D:\vs2022实例\2_12_SplitMethod\bin\Debug\2_12_SplitMethod.pdb
+D:\vs2022实例\2_12_SplitMethod\obj\Debug\2_12_SplitMethod.csproj.AssemblyReference.cache
+D:\vs2022实例\2_12_SplitMethod\obj\Debug\2_12_SplitMethod.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_12_SplitMethod\obj\Debug\2_12_SplitMethod.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_12_SplitMethod\obj\Debug\2_12_SplitMethod.exe
+D:\vs2022实例\2_12_SplitMethod\obj\Debug\2_12_SplitMethod.pdb
