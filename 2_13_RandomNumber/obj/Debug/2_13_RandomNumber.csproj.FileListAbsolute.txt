@@ -1,0 +1,8 @@
+D:\vs2022实例\2_13_RandomNumber\bin\Debug\2_13_RandomNumber.exe.config
+D:\vs2022实例\2_13_RandomNumber\bin\Debug\2_13_RandomNumber.exe
+D:\vs2022实例\2_13_RandomNumber\bin\Debug\2_13_RandomNumber.pdb
+D:\vs2022实例\2_13_RandomNumber\obj\Debug\2_13_RandomNumber.csproj.AssemblyReference.cache
+D:\vs2022实例\2_13_RandomNumber\obj\Debug\2_13_RandomNumber.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_13_RandomNumber\obj\Debug\2_13_RandomNumber.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_13_RandomNumber\obj\Debug\2_13_RandomNumber.exe
+D:\vs2022实例\2_13_RandomNumber\obj\Debug\2_13_RandomNumber.pdb
