@@ -1,0 +1,8 @@
+D:\vs2022实例\2_15_ToUpperToLowerMethod\bin\Debug\2_15_ToUpperToLowerMethod.exe.config
+D:\vs2022实例\2_15_ToUpperToLowerMethod\bin\Debug\2_15_ToUpperToLowerMethod.exe
+D:\vs2022实例\2_15_ToUpperToLowerMethod\bin\Debug\2_15_ToUpperToLowerMethod.pdb
+D:\vs2022实例\2_15_ToUpperToLowerMethod\obj\Debug\2_15_ToUpperToLowerMethod.csproj.AssemblyReference.cache
+D:\vs2022实例\2_15_ToUpperToLowerMethod\obj\Debug\2_15_ToUpperToLowerMethod.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_15_ToUpperToLowerMethod\obj\Debug\2_15_ToUpperToLowerMethod.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_15_ToUpperToLowerMethod\obj\Debug\2_15_ToUpperToLowerMethod.exe
+D:\vs2022实例\2_15_ToUpperToLowerMethod\obj\Debug\2_15_ToUpperToLowerMethod.pdb
