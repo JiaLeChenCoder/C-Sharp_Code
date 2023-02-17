@@ -1,0 +1,8 @@
+D:\vs2022实例\2_17_AscendingOutput\2_17_AscendingOutput\obj\Debug\2_17_AscendingOutput.csproj.AssemblyReference.cache
+D:\vs2022实例\2_17_AscendingOutput\2_17_AscendingOutput\obj\Debug\2_17_AscendingOutput.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_17_AscendingOutput\2_17_AscendingOutput\obj\Debug\2_17_AscendingOutput.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_17_AscendingOutput\2_17_AscendingOutput\bin\Debug\2_17_AscendingOutput.exe.config
+D:\vs2022实例\2_17_AscendingOutput\2_17_AscendingOutput\bin\Debug\2_17_AscendingOutput.exe
+D:\vs2022实例\2_17_AscendingOutput\2_17_AscendingOutput\bin\Debug\2_17_AscendingOutput.pdb
+D:\vs2022实例\2_17_AscendingOutput\2_17_AscendingOutput\obj\Debug\2_17_AscendingOutput.exe
+D:\vs2022实例\2_17_AscendingOutput\2_17_AscendingOutput\obj\Debug\2_17_AscendingOutput.pdb
