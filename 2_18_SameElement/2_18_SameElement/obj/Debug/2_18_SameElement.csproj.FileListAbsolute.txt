@@ -1,0 +1,8 @@
+D:\vs2022实例\2_18_SameElement\2_18_SameElement\bin\Debug\2_18_SameElement.exe.config
+D:\vs2022实例\2_18_SameElement\2_18_SameElement\bin\Debug\2_18_SameElement.exe
+D:\vs2022实例\2_18_SameElement\2_18_SameElement\bin\Debug\2_18_SameElement.pdb
+D:\vs2022实例\2_18_SameElement\2_18_SameElement\obj\Debug\2_18_SameElement.csproj.AssemblyReference.cache
+D:\vs2022实例\2_18_SameElement\2_18_SameElement\obj\Debug\2_18_SameElement.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_18_SameElement\2_18_SameElement\obj\Debug\2_18_SameElement.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_18_SameElement\2_18_SameElement\obj\Debug\2_18_SameElement.exe
+D:\vs2022实例\2_18_SameElement\2_18_SameElement\obj\Debug\2_18_SameElement.pdb
