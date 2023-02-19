@@ -1,0 +1,8 @@
+D:\vs2022实例\2_19_FreeFall\2_19_FreeFall\bin\Debug\2_19_FreeFall.exe.config
+D:\vs2022实例\2_19_FreeFall\2_19_FreeFall\bin\Debug\2_19_FreeFall.exe
+D:\vs2022实例\2_19_FreeFall\2_19_FreeFall\bin\Debug\2_19_FreeFall.pdb
+D:\vs2022实例\2_19_FreeFall\2_19_FreeFall\obj\Debug\2_19_FreeFall.csproj.AssemblyReference.cache
+D:\vs2022实例\2_19_FreeFall\2_19_FreeFall\obj\Debug\2_19_FreeFall.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_19_FreeFall\2_19_FreeFall\obj\Debug\2_19_FreeFall.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_19_FreeFall\2_19_FreeFall\obj\Debug\2_19_FreeFall.exe
+D:\vs2022实例\2_19_FreeFall\2_19_FreeFall\obj\Debug\2_19_FreeFall.pdb
