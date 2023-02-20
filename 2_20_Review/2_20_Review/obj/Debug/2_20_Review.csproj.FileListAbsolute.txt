@@ -1,0 +1,8 @@
+D:\vs2022实例\2_20_Review\2_20_Review\bin\Debug\2_20_Review.exe.config
+D:\vs2022实例\2_20_Review\2_20_Review\bin\Debug\2_20_Review.exe
+D:\vs2022实例\2_20_Review\2_20_Review\bin\Debug\2_20_Review.pdb
+D:\vs2022实例\2_20_Review\2_20_Review\obj\Debug\2_20_Review.csproj.AssemblyReference.cache
+D:\vs2022实例\2_20_Review\2_20_Review\obj\Debug\2_20_Review.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_20_Review\2_20_Review\obj\Debug\2_20_Review.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_20_Review\2_20_Review\obj\Debug\2_20_Review.exe
+D:\vs2022实例\2_20_Review\2_20_Review\obj\Debug\2_20_Review.pdb
