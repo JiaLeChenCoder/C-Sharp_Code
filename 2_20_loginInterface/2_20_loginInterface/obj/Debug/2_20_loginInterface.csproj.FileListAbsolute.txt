@@ -1,0 +1,11 @@
+D:\vs2022实例\2_20_loginInterface\2_20_loginInterface\bin\Debug\2_20_loginInterface.exe.config
+D:\vs2022实例\2_20_loginInterface\2_20_loginInterface\bin\Debug\2_20_loginInterface.exe
+D:\vs2022实例\2_20_loginInterface\2_20_loginInterface\bin\Debug\2_20_loginInterface.pdb
+D:\vs2022实例\2_20_loginInterface\2_20_loginInterface\obj\Debug\2_20_loginInterface.csproj.AssemblyReference.cache
+D:\vs2022实例\2_20_loginInterface\2_20_loginInterface\obj\Debug\2_20_loginInterface.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_20_loginInterface\2_20_loginInterface\obj\Debug\_2_20_loginInterface.Form1.resources
+D:\vs2022实例\2_20_loginInterface\2_20_loginInterface\obj\Debug\_2_20_loginInterface.Properties.Resources.resources
+D:\vs2022实例\2_20_loginInterface\2_20_loginInterface\obj\Debug\2_20_loginInterface.csproj.GenerateResource.cache
+D:\vs2022实例\2_20_loginInterface\2_20_loginInterface\obj\Debug\2_20_loginInterface.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_20_loginInterface\2_20_loginInterface\obj\Debug\2_20_loginInterface.exe
+D:\vs2022实例\2_20_loginInterface\2_20_loginInterface\obj\Debug\2_20_loginInterface.pdb
