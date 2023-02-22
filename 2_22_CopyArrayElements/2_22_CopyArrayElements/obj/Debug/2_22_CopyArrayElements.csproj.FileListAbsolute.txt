@@ -1,0 +1,8 @@
+D:\vs2022实例\2_22_CopyArrayElements\2_22_CopyArrayElements\bin\Debug\2_22_CopyArrayElements.exe.config
+D:\vs2022实例\2_22_CopyArrayElements\2_22_CopyArrayElements\bin\Debug\2_22_CopyArrayElements.exe
+D:\vs2022实例\2_22_CopyArrayElements\2_22_CopyArrayElements\bin\Debug\2_22_CopyArrayElements.pdb
+D:\vs2022实例\2_22_CopyArrayElements\2_22_CopyArrayElements\obj\Debug\2_22_CopyArrayElements.csproj.AssemblyReference.cache
+D:\vs2022实例\2_22_CopyArrayElements\2_22_CopyArrayElements\obj\Debug\2_22_CopyArrayElements.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_22_CopyArrayElements\2_22_CopyArrayElements\obj\Debug\2_22_CopyArrayElements.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_22_CopyArrayElements\2_22_CopyArrayElements\obj\Debug\2_22_CopyArrayElements.exe
+D:\vs2022实例\2_22_CopyArrayElements\2_22_CopyArrayElements\obj\Debug\2_22_CopyArrayElements.pdb
