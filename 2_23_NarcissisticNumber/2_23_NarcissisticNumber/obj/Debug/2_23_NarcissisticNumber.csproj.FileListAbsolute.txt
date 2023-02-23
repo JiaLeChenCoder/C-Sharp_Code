@@ -1,0 +1,8 @@
+D:\vs2022实例\2_23_NarcissisticNumber\2_23_NarcissisticNumber\obj\Debug\2_23_NarcissisticNumber.csproj.AssemblyReference.cache
+D:\vs2022实例\2_23_NarcissisticNumber\2_23_NarcissisticNumber\obj\Debug\2_23_NarcissisticNumber.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_23_NarcissisticNumber\2_23_NarcissisticNumber\obj\Debug\2_23_NarcissisticNumber.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_23_NarcissisticNumber\2_23_NarcissisticNumber\bin\Debug\2_23_NarcissisticNumber.exe.config
+D:\vs2022实例\2_23_NarcissisticNumber\2_23_NarcissisticNumber\bin\Debug\2_23_NarcissisticNumber.exe
+D:\vs2022实例\2_23_NarcissisticNumber\2_23_NarcissisticNumber\bin\Debug\2_23_NarcissisticNumber.pdb
+D:\vs2022实例\2_23_NarcissisticNumber\2_23_NarcissisticNumber\obj\Debug\2_23_NarcissisticNumber.exe
+D:\vs2022实例\2_23_NarcissisticNumber\2_23_NarcissisticNumber\obj\Debug\2_23_NarcissisticNumber.pdb
