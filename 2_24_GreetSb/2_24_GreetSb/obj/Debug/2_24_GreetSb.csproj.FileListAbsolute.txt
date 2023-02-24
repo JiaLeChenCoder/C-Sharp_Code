@@ -1,0 +1,8 @@
+D:\vs2022实例\2_24_GreetSb\2_24_GreetSb\bin\Debug\2_24_GreetSb.exe.config
+D:\vs2022实例\2_24_GreetSb\2_24_GreetSb\bin\Debug\2_24_GreetSb.exe
+D:\vs2022实例\2_24_GreetSb\2_24_GreetSb\bin\Debug\2_24_GreetSb.pdb
+D:\vs2022实例\2_24_GreetSb\2_24_GreetSb\obj\Debug\2_24_GreetSb.csproj.AssemblyReference.cache
+D:\vs2022实例\2_24_GreetSb\2_24_GreetSb\obj\Debug\2_24_GreetSb.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_24_GreetSb\2_24_GreetSb\obj\Debug\2_24_GreetSb.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_24_GreetSb\2_24_GreetSb\obj\Debug\2_24_GreetSb.exe
+D:\vs2022实例\2_24_GreetSb\2_24_GreetSb\obj\Debug\2_24_GreetSb.pdb
