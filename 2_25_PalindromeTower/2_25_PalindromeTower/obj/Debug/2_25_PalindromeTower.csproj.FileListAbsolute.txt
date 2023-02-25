@@ -1,0 +1,8 @@
+D:\vs2022实例\2_25_PalindromeTower\2_25_PalindromeTower\bin\Debug\2_25_PalindromeTower.exe.config
+D:\vs2022实例\2_25_PalindromeTower\2_25_PalindromeTower\bin\Debug\2_25_PalindromeTower.exe
+D:\vs2022实例\2_25_PalindromeTower\2_25_PalindromeTower\bin\Debug\2_25_PalindromeTower.pdb
+D:\vs2022实例\2_25_PalindromeTower\2_25_PalindromeTower\obj\Debug\2_25_PalindromeTower.csproj.AssemblyReference.cache
+D:\vs2022实例\2_25_PalindromeTower\2_25_PalindromeTower\obj\Debug\2_25_PalindromeTower.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_25_PalindromeTower\2_25_PalindromeTower\obj\Debug\2_25_PalindromeTower.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_25_PalindromeTower\2_25_PalindromeTower\obj\Debug\2_25_PalindromeTower.exe
+D:\vs2022实例\2_25_PalindromeTower\2_25_PalindromeTower\obj\Debug\2_25_PalindromeTower.pdb
