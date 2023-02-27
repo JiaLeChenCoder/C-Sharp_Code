@@ -1,0 +1,8 @@
+D:\vs2022实例\2_27_DefinitionOfArray\2_27_DefinitionOfArray\bin\Debug\2_27_DefinitionOfArray.exe.config
+D:\vs2022实例\2_27_DefinitionOfArray\2_27_DefinitionOfArray\bin\Debug\2_27_DefinitionOfArray.exe
+D:\vs2022实例\2_27_DefinitionOfArray\2_27_DefinitionOfArray\bin\Debug\2_27_DefinitionOfArray.pdb
+D:\vs2022实例\2_27_DefinitionOfArray\2_27_DefinitionOfArray\obj\Debug\2_27_DefinitionOfArray.csproj.AssemblyReference.cache
+D:\vs2022实例\2_27_DefinitionOfArray\2_27_DefinitionOfArray\obj\Debug\2_27_DefinitionOfArray.csproj.SuggestedBindingRedirects.cache
+D:\vs2022实例\2_27_DefinitionOfArray\2_27_DefinitionOfArray\obj\Debug\2_27_DefinitionOfArray.csproj.CoreCompileInputs.cache
+D:\vs2022实例\2_27_DefinitionOfArray\2_27_DefinitionOfArray\obj\Debug\2_27_DefinitionOfArray.exe
+D:\vs2022实例\2_27_DefinitionOfArray\2_27_DefinitionOfArray\obj\Debug\2_27_DefinitionOfArray.pdb
